@@ -12,4 +12,8 @@ Coin mainer(25)(06 September 2022)
 
 SAT-Shahin-YT-F9856259F3-M4786==
 
+Coin mainer32(30)(06 September 2022)
+
+SAT-Shahin-YT-F8F2491DD1-M4786==
+
 
